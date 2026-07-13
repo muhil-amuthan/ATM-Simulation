@@ -85,5 +85,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Muhil**
+**Muhil Amuthan M**
 Electronics and Communication Engineering | V.S.B. Engineering College
