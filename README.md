@@ -3,7 +3,6 @@
 A console-based **ATM Simulation** built in Java that mimics real-world ATM operations — account creation, secure login, cash withdrawal, deposits, balance inquiry, PIN management, and transaction receipts.
 
 ## 📌 Features
-
 - **Create Account** — Register a new bank account with name, account number, PIN, and initial deposit.
 - **Secure Login** — Authenticate using account number and 4-digit PIN.
 - **Withdraw Cash** — Withdraw money with balance and daily withdrawal limit checks.
